@@ -20,7 +20,6 @@ linux-firmware
 linux-headers
 neovim
 networkmanager
-nvidia-open-dkms
 nvidia-utils
 obs-studio
 openssh
